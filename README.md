@@ -1,4 +1,4 @@
-# WA2_Lab05_G32
+# Web Application 2 Project
 ## Authors:
 - s301201, Anfossi Davide
 - s292623, Mistruzzi Luca Guglielmo
